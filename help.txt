@@ -1,5 +1,0 @@
-PRISMA: 
-    npm i -D prisma
-    npx prisma init
-    npx prisma db push - автоматический push model в бд
-    npx prisma generate - генерирует клиент
